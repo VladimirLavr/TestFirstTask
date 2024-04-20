@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="__Public" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.8" opacity="0.742303757">
+        <g id="Main-1440-" transform="translate(-1183.000000, -1270.000000)" fill="#000000">
+            <g id="card_1-copy-6" transform="translate(211.000000, 1107.000000)">
+                <g id="Group-31" transform="translate(23.000000, 154.000000)">
+                    <g id="buttons/card/show_more" transform="translate(938.000000, 0.000000)">
+                        <g id="25h8/chat/icon/black/expand_more-active-focused" transform="translate(11.000000, 9.590000)">
+                            <polygon id="Shape" points="10.59 0 6 4.58 1.41 0 0 1.41 6 7.41 12 1.41"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

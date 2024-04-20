@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0B6BB9F2-39C2-4F00-9C45-C946C635DCEF</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32" rx="16"></rect>
+    </defs>
+    <g id="__Public" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cabinet+menu-user's_menu_opened-1440" transform="translate(-1334.000000, -27.000000)">
+            <g id="ic_view_list-copy-2" transform="translate(1334.000000, 27.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#E6EEF7" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)" id="ic_person">
+                    <g transform="translate(4.000000, 8.000000)" id="Icon-24px">
+                        <path d="M12,12 C14.7625,12 17,9.7625 17,7 C17,4.2375 14.7625,2 12,2 C9.2375,2 7,4.2375 7,7 C7,9.7625 9.2375,12 12,12 L12,12 Z M2,20.5 L2,25.5 L22,25.5 L22,20.5 C22,16.51 15.3375,14.5 12,14.5 C8.6625,14.5 2,16.51 2,20.5 Z" id="Shape" fill="#007EFF"></path>
+                        <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <title>Document</title>
+</head>
+<body>
+<div class="wrapper">
+    <div id="header_wrap"></div>
+    <header>
+        <div id="nav_menu">
+            <div class="burger">
+                <span class="burger_span"></span>
+            </div>
+            <a href="/" class="logo">
+                <p>
+                    <img class="logo_img" src="https://tmpfiles.nohat.cc/m2i8b1Z5K9m2K9A0.png" alt="logo">
+                </p>
+            </a>
+            <div class="search_menu">
+                <form class="search_form" action="#" method="post">
+                    <input name="searchField" class="search_menu_inp" type="text" placeholder="Search...">
+                    <input type="submit" id="submit">
+                    <label for="submit">
+                        <img class="search_img" src="search.png" alt="search">
+                    </label>
+                </form>
+            </div>
+            <ul id="menu">
+                <form class="search_form_mob" action="#" method="post">
+                    <input name="searchField" class="search_menu_inp" type="text" placeholder="Search...">
+                    <input type="submit" id="submit_mob">
+                    <label for="submit_mob">
+                        <img class="search_img" src="search.png" alt="search">
+                    </label>
+                </form>
+
+                <li class="menu_item">
+                    <a class="menu_item_link" href="#">Каталог</a>
+                    <ul class="dropdown_menu">
+                        <li class="dropdown_menu_item">
+                            Автомобілі
+                        </li>
+                        <li class="dropdown_menu_item">
+                            Аксесуари
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu_item">
+                    <a class="menu_item_link" href="#">Сервіс</a>
+                    <ul class="dropdown_menu">
+                        <li class="dropdown_menu_item">
+                            Ціни
+                        </li>
+                        <li class="dropdown_menu_item">
+                            Робота
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <div class="cabinet_wrap">
+                <div class="cabinet">
+                    <img class="cabinet_icon" src="cabinet.svg" alt="cabinet">
+                    <ul class="dropdown_menu cab">
+                        <li class="dropdown_menu_item">
+                            Вхід в систему
+                        </li>
+                        <li class="dropdown_menu_item">
+                            Реєстрація
+                        </li>
+                        <li class="dropdown_menu_item">
+                            Відновлення паролю
+                        </li>
+                    </ul>
+
+                </div>
+
+            </div>
+        </div>
+    </header>
+    <div id="devider_wrap">
+        <div class="devider">
+            <div class="red"></div>
+            <div class="blue"></div>
+        </div>
+    </div>
+    <main>
+    </main>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="index.js"></script>
+<script src="burger.js"></script>
+</body>
+</html>
