@@ -1,11 +1,11 @@
 $('.burger').on('click',function (){
     $(this).toggleClass('active')
-    $('#menu').animate({
-        left: '-54px'
+    $('#menu_mob').animate({
+        'margin-left': '0',
     }, 500)
     if(!($(this).hasClass('active'))){
-        $('#menu').animate({
-            left: '-100%'
-        },200)
+        $('#menu_mob').animate({
+            'margin-left': '-200%'
+        },500)
     }
 })
